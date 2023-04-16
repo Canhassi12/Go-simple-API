@@ -1,0 +1,10 @@
+# POST http://localhost:3000/user
+# Content-Type: application/json
+
+# {
+#   "name": "Canhassi",
+#   "age": 12
+# }
+
+GET http://localhost:3000/user/Canhassi
+Content-Type: application/json
